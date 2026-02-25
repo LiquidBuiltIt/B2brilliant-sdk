@@ -34,7 +34,7 @@
   },
   "bugs": {
 	"email": "monkeydev4hire@proton.me",
-	"url": "https://github.com/h8ngryDev4Hire/b2brilliant-sdk/issues"
+	"url": "https://github.com/Liquidbuiltit/b2brilliant-sdk/issues"
   },
   "jest": {
     "preset": "ts-jest",
