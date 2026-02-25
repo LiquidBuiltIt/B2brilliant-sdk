@@ -1,6 +1,6 @@
 # B2Brilliant Campaign Agent SDKs
 
-Official Software Development Kits (SDKs) for the [B2Brilliant Campaign Agent API](https://github.com/h8ngryDev4Hire/B2brilliant-sdk). Generate personalized B2B campaigns by analyzing business websites and social media profiles.
+Official Software Development Kits (SDKs) for the [B2Brilliant Campaign Agent API](https://github.com/Liquidbuiltit/B2brilliant-sdk). Generate personalized B2B campaigns by analyzing business websites and social media profiles.
 
 ## 🚀 **Currently in Beta**
 
@@ -104,12 +104,12 @@ Both SDKs provide the same powerful functionality:
 ## 🔗 **Related Projects**
 
 - **[B2Brilliant Platform](https://www.b2brilliant.app)**: Main B2Brilliant web application and platform
-- **[MCP Server](https://github.com/h8ngryDev4Hire/B2brilliant-sdk)**: Model Context Protocol server for Claude Desktop integration
+- **[MCP Server](https://github.com/Liquidbuiltit/B2brilliant-sdk)**: Model Context Protocol server for Claude Desktop integration
 
 
 ## 🤝 **Contributing**
 
-We welcome contributions to both SDKs! Visit our [GitHub repository](https://github.com/h8ngryDev4Hire/B2brilliant-sdk) for development setup and contribution guidelines.
+We welcome contributions to both SDKs! Visit our [GitHub repository](https://github.com/Liquidbuiltit/B2brilliant-sdk) for development setup and contribution guidelines.
 
 ## 📄 **License**
 
@@ -118,7 +118,7 @@ MIT License - see our [LICENSE](LICENSE.md) for details.
 ## 🆘 **Support**
 
 - **Documentation**: Visit [B2Brilliant Documentation](https://www.b2brilliant.app/docs)
-- **Issues**: Report bugs on our [GitHub repository](https://github.com/h8ngryDev4Hire/B2brilliant-sdk/issues)
+- **Issues**: Report bugs on our [GitHub repository](https://github.com/Liquidbuiltit/B2brilliant-sdk/issues)
 - **Beta Access**: Visit [B2Brilliant.app](https://www.b2brilliant.app) for support
 
 ---
