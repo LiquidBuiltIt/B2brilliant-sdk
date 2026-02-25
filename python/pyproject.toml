@@ -29,7 +29,7 @@ test = [
 
 [project.urls]
 "Homepage" = "https://b2brilliant.app"
-"Bug Tracker" = "https://github.com/h8ngryDev4Hire/b2brilliant-sdk/issues"
+"Bug Tracker" = "https://github.com/Liquidbuiltit/b2brilliant-sdk/issues"
 
 [tool.pytest.ini_options]
 testpaths = ["b2brilliant_sdk"]
